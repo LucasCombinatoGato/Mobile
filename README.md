@@ -23,13 +23,13 @@
 ### TIPOS DE DESENVOLVIMENTO
 
     - NATIVO
-        - Android
+        • Android
             - SDK: Android SDK
             - IDE: Android Studio
             - Linguagens: Kotlin e Java
             - Ambientes: Mac / Windows / Linux
 
-        - iOS:
+        • iOS:
             - SDK: Cocoa Touch
             - IDE: Xcode
             - Linguagens: Swift / Objectype-C
@@ -37,13 +37,13 @@
 
 
     - MULTIPLATAFORMA
-        - React Native:
+        • React Native:
             - SDK: Node.JS
             - IDE: VSCode / etc.
             - Linguagens: JavaScript / TypeScript
             - Ambientes: Mac / Windows / Linux
 
-        - Flutter:
+        • Flutter:
             - SKD: Flutter SDK
             - IDE: VSCode / Android Studio
             - Linguagens: Dart
