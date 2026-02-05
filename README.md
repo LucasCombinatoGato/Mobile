@@ -1,5 +1,5 @@
 ## AULA DO DIA 27/01
-# Configuração das máqionas de uso pessoal
+# Configuração das máquinas de uso pessoal
 
     Criamos um perfil próprio para usarmos no computador da escola, tivemos o acesso para criar e configurar uma conta própria para a utilização durante todas as aulas desse ano.
     Foi definido que o nome dessa conta seria "2DevSESI" e a sua senha seria "tecdev2026", além disso, tivemos acesso à senha de acesso a conta do instrutor: "sesisenaisp".
