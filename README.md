@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AULA DO DIA 27/01
+=======
+## AULA DO DIA 27/01
+# Configuração das máquinas de uso pessoal
+>>>>>>> 216224e5b5662d545ff75b68f929a8330af921b4
 =======
 ## AULA DO DIA 27/01
 # Configuração das máquinas de uso pessoal
@@ -21,9 +26,15 @@
         type nul > {nome do arquivo}   -->   cria um arquivo novo de texto
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Conteúdo da Aula Anterior
 
 ## Introdução ao Desenvolvimento Mobile
+=======
+
+## AULA DO DIA 03/02
+# Introdução ao Desenvolvimento Mobile
+>>>>>>> 216224e5b5662d545ff75b68f929a8330af921b4
 =======
 
 ## AULA DO DIA 03/02
@@ -47,8 +58,13 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     - MULTIPLATAFORMA   -->   //Uma linguagem de desenvolvimentos em várias plataformas
         - React Native:
+=======
+    - MULTIPLATAFORMA
+        • React Native:
+>>>>>>> 216224e5b5662d545ff75b68f929a8330af921b4
 =======
     - MULTIPLATAFORMA
         • React Native:
@@ -59,7 +75,11 @@
             - Ambientes: Mac / Windows / Linux
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         - Flutter:   -->   Framework
+=======
+        • Flutter:
+>>>>>>> 216224e5b5662d545ff75b68f929a8330af921b4
 =======
         • Flutter:
 >>>>>>> 216224e5b5662d545ff75b68f929a8330af921b4
