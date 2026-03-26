@@ -140,3 +140,31 @@
     - Outros comandos do flutter pub(dependências)
         - `flutter pub outdated` (verifica de as dependências estão desatualizadas)
         - `flutter pub upgrade` (atualiza as dependências do flutter pub)
+
+
+## Estrutura de um Aplicativo
+
+### A Hierarquia de árvore
+
+#### Gráfico com demonstração da Hierarquia
+
+```mermaid
+
+graph BT
+
+    MA [MaterialAPP]
+    STL[StateLess Widget]
+    STF[StatFull Widget]
+    SC[Scaffold]
+    ABar[AppBar]
+    BD[Body]
+    BNBar[BottonNavigationBar]
+    DW[Drawer]
+    FAB[FloatActionButton]
+    SB[SnackBar]
+
+    MA --> STL & STF
+    STF & STL --> SC
+    SC --> ABar & BD & BNBar & DW & FAB & SB
+
+```
