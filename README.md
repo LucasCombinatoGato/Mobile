@@ -160,7 +160,7 @@ graph BT
     BD["Body"]
     BNBar["BottonNavigationBar"]
     DW["Drawer"]
-    FAB[F"loatActionButton"]
+    FAB["FloatActionButton"]
     SB["SnackBar"]
 
     MA --> STL & STF
