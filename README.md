@@ -152,16 +152,16 @@
 
 graph BT
 
-    MA [MaterialAPP]
-    STL[StateLess Widget]
-    STF[StatFull Widget]
-    SC[Scaffold]
-    ABar[AppBar]
-    BD[Body]
-    BNBar[BottonNavigationBar]
-    DW[Drawer]
-    FAB[FloatActionButton]
-    SB[SnackBar]
+    MA["MaterialAPP"]
+    STL["StateLess Widget"]
+    STF["StatFull Widget"]
+    SC["Scaffold"]
+    ABar["AppBar"]
+    BD["Body"]
+    BNBar["BottonNavigationBar"]
+    DW["Drawer"]
+    FAB[F"loatActionButton"]
+    SB["SnackBar"]
 
     MA --> STL & STF
     STF & STL --> SC
