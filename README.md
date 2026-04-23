@@ -168,3 +168,7 @@ graph BT
     SC --> ABar & BD & BNBar & DW & FAB & SB
 
 ```
+
+
+### Matrix Comparativa entre StateLess e StateFull
+
